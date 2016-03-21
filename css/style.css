@@ -1,0 +1,36 @@
+body{padding:0px;margin:0px}
+.form{
+    background-color: #eee;
+    width:960px;
+    padding:20px;
+    margin:20px;
+    overflow: auto;
+}
+.group{
+    font-family: '微软雅黑';
+    font-size:16px;
+    width:100%; 
+}
+.gp-lf{width:30%;text-align: right;}
+.gp-lf label{margin-right:20px}
+.gp-rt{width:70%;}
+.gp-lf,
+.gp-rt{
+    height:30px;
+    float: left;
+}
+.input-text{
+    height:30px;
+    border:2px solid #999;
+    border-radius:5px
+}
+.test-btn{
+    border-radius:5px;
+    width:60px;
+    height:30px;
+    font-size: 16px;
+    padding:2px;
+    color:#fff;
+    background-color: #75b86b;
+    font-family: '微软雅黑';
+}
